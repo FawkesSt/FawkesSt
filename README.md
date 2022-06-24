@@ -1,6 +1,6 @@
 ### Hello friend.md 👋
 
-I'm Matheus Santos, and I just started my studies in the web development world and UX UI design. I'm from Brazil, and i'm working with tech support (saas) at www.leadlovers.com a Digital Marketing and Sales Platform.
+I'm Matheus Santos, and I just started my studies in the web development world and UX UI design. I'm from Brazil, and I work as UX Designer at www.leadlovers.com a Digital Marketing and Sales Platform.
 
 Send a message on my:
 [![Linkedin: Matheus](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matheus-corp-santos/)](www.linkedin.com/in/matheus-corp-santos/)
