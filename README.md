@@ -1,7 +1,6 @@
 ### Hello friend.md 👋
 
-Hi there Matheus here, I'm an UX UI designer. I'm from Brazil, and I work at www.leadlovers.com a Digital Marketing and Sales Platform.
-I'm currently studying 3D modeling with Blender, Web programming, and UI Design.
+Hi there Matheus here, I'm an UX UI designer. I'm from Brazil, I'm currently studying Web programming, and UI Design and also Unity.
 
 Send a message on my:
 [![Linkedin: Matheus](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matheus-corp-santos/)](www.linkedin.com/in/matheus-corp-santos/)
