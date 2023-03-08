@@ -1,6 +1,6 @@
 ### Hello friend.md 👋
 
-Hi there Matheus here, I'm an UX UI designer. I'm from Brazil, I'm currently studying Web programming, and UI Design and also Unity.
+Hi there Matheus here, I'm an UX UI designer. I'm from Brazil, I'm currently studying Web programming, and UI Design.
 
 Send a message on my:
 [![Linkedin: Matheus](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matheus-corp-santos/)](www.linkedin.com/in/matheus-corp-santos/)
