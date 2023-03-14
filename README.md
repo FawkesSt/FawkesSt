@@ -25,7 +25,7 @@ These are some of the technologies that i'm trying to study and get used to:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
 
 ------------
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawkesSt&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawkesSt&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/></br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
