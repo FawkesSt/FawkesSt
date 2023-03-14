@@ -1,4 +1,4 @@
-### Hello friend.md 👋
+## Hello friend.md 👋
 
 Hi there Matheus here, I'm an UX/UI designer. Based in Brazil, I'm currently studying Web programming, and UI Design.
 
@@ -6,7 +6,7 @@ Let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Fawkesst&show_icons=true&" />
 
-## ⚡ Technologies
+### ⚡ Technologies
 
 These are some of the technologies that i'm trying to study and get used to:
 
@@ -24,7 +24,7 @@ These are some of the technologies that i'm trying to study and get used to:
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
 
-## Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
