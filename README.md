@@ -28,7 +28,7 @@ These are some of the technologies that i'm trying to study and get used to:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawkesSt&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawkesSt&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/></br>
+<img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/></br>
 
 
 
