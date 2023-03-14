@@ -4,7 +4,7 @@ Hi there Matheus here, I'm an UX/UI designer. Based in Brazil, I'm currently stu
 
 Let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//matheus-ui) 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Fawkesst&show_icons=true&" />
+![](https://github-readme-stats.vercel.app/api?username=FawkesSt&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ### ⚡ Technologies
 
