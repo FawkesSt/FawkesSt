@@ -28,5 +28,7 @@ These are some of the technologies that i'm trying to study and get used to:
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FawkesSt&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 
