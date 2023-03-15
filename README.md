@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B829&multiline=true&width=435&lines=Hello+friend.md+%F0%9F%91%8B)](https://git.io/typing-svg)</br>
-
 Hi there Matheus here, I'm an UX/UI designer. I'm currently studying Web programming, Blender, and UI Design.
 
 Let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//matheus-ui) 
