@@ -1,6 +1,8 @@
 ## Hello friend.md 👋
 
-Hi there Matheus here, I'm an UX/UI designer. Based in Brazil, I'm currently studying Web programming, and UI Design.
+Hi there Matheus here, I'm an UX/UI designer. I'm currently studying Web programming, and UI Design.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Barlow&size=19&pause=1000&color=F7F7F7&background=1D100A00&multiline=true&repeat=false&width=435&lines=Hi+there+Matheus+here!+;I'm+currently+studying+Web+programming%2C+and+UI+Design.)](https://git.io/typing-svg)
 
 Let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//matheus-ui) 
 
@@ -29,6 +31,11 @@ These are some of the technologies that i'm trying to study and get used to:
 <img align="left" width="500" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawkesSt&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+
+
+<p align="center">
+  <img width="600" src="https://cdn.rawgit.com/transitive-bullshit/create-react-library/master/media/demo.svg">
+</p>
 
 
 
