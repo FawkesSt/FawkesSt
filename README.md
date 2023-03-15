@@ -1,6 +1,5 @@
 ## Hello friend.md 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Barlow&size=19&duration=1000&pause=500&color=F7F7F7&background=1D100A00&multiline=true&repeat=false&width=435&lines=Hi+there+Matheus+here!+;I'm+currently+studying+Web+programming%2C;and+UI+Design.)](https://git.io/typing-svg)
 
 Let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//matheus-ui) 
 
