@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B829&multiline=true&width=435&lines=Hello+friend.md+%F0%9F%91%8B)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=500&pause=1000&color=FFFFFF&multiline=true&repeat=false&width=435&lines=Hi+there+Matheus+here!)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=500&pause=1000&color=FFFFFF&multiline=true&repeat=false&width=435&lines=I'm+currently+studying+Web+programming%2C+and+UI+Design.;Blender%2C+and+UI+Design.)](https://git.io/typing-svg)
 
 
