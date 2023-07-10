@@ -3,7 +3,6 @@ Hi there Matheus here, I'm an UX/UI designer currently studying Front-end develo
 
 Let's connect:</br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//matheus-ui) 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=FawkesSt&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" />
 
 ### ⚡ Technologies
 
